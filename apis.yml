@@ -1,0 +1,87 @@
+aid: qed-investors
+name: QED Investors
+description: >-
+  QED Investors is a global venture capital firm founded in 2007 by Nigel Morris and Frank Rotman,
+  both early leaders at Capital One, and headquartered in Alexandria, Virginia. QED invests
+  exclusively in fintech and financial-services technology, backing what it calls "pragmatic
+  disruptors who are the future of finance" across credit and lending, banking and neobanks,
+  banking-as-a-service and embedded finance, payments, insurance/insurtech, wealth management,
+  proptech, and real-estate technology. The firm invests from pre-seed and seed through Series A and
+  growth stages, with early-stage initial checks generally in the $3M-$10M range (roughly $15M
+  average once follow-on is included) and $15M-$20M average from its growth fund. QED operates
+  globally with investment teams across the United States, Latin America, Europe, Asia/India, and
+  Africa, and offices in Alexandria (VA), London, Singapore, Mexico, and Brazil. It reports roughly
+  $4B in assets under management, more than 250 portfolio companies, and over 30 unicorns, with
+  notable investments including Nubank, Credit Karma, SoFi, Klarna, Remitly, Flywire, Klarna,
+  Kavak, Creditas, and Bitso.
+image: https://www.qedinvestors.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Growth Equity
+  - Fintech
+  - Financial Services
+  - Payments
+  - Lending
+  - Insurtech
+  - Banking
+  - Proptech
+  - Latin America
+  - Global
+apis: []
+common:
+  - type: Website
+    url: https://www.qedinvestors.com/
+  - type: Portfolio
+    url: https://www.qedinvestors.com/companies
+  - type: Portfolio
+    url: portfolio/qed-investors-portfolio.yml
+  - type: Team
+    url: https://www.qedinvestors.com/team
+  - type: InvestmentThesis
+    url: https://www.qedinvestors.com/
+  - type: Blog
+    url: https://www.qedinvestors.com/blog
+  - type: Podcast
+    url: https://www.qedinvestors.com/blog-categories/podcast
+  - type: News
+    url: https://www.qedinvestors.com/media-coverage
+  - type: News
+    url: https://www.qedinvestors.com/press-releases
+  - type: Jobs
+    url: https://careers.qedinvestors.com/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/qed-investors
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/qed-investors/
+  - type: Twitter
+    url: https://twitter.com/QEDInvestors
+  - type: Features
+    data:
+      - "Stage: Pre-seed, Seed, Series A, Growth"
+      - "Typical check: $3M-$10M early-stage initial (approx $15M average with follow-on); $15M-$20M average growth fund"
+      - "Sectors: Fintech only - credit/lending, banking, banking-as-a-service, embedded finance, payments, insurance, wealth management, proptech"
+      - "Geography: Global - US, Latin America, Europe, Asia/India, Africa"
+      - "AUM: ~$4B (self-reported)"
+      - "Portfolio: 250+ companies, 30+ unicorns"
+      - "Founded: 2007"
+      - "HQ: Alexandria, Virginia, USA"
+    sources:
+      - https://www.qedinvestors.com/
+      - https://www.qedinvestors.com/companies
+      - https://www.crunchbase.com/organization/qed-investors
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: QED Investors
+    url: https://www.qedinvestors.com/

@@ -1,0 +1,1910 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.qedinvestors.com/companies
+summary:
+  portfolio_total: 160
+  in_network: 27
+  api_providers: 14
+  missing: 133
+  stubs_created: 0
+companies:
+- name: Airship
+  url: https://www.airship.us/
+  description: Airship is point of sale software for HVAC businesses.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: 'QED Investment: 2024'
+  source: https://www.qedinvestors.com/companies/airship
+  slug: airship
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Albert
+  url: https://albert.com/
+  description: Albert is on a mission to build the future of financial advice.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Los Angeles, Calif
+  source: https://www.qedinvestors.com/companies/albert
+  slug: albert
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Amount
+  url: http://amount.com
+  description: Amount makes digital financial experiences that align with the way we live.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Chicago, Ill
+  source: https://www.qedinvestors.com/companies/amount
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amount
+- name: Amparo
+  url: https://www.amparo.com.vc
+  description: Amparo supports bereaved families as they navigate the operational, financial and emotional
+    complexities following the loss of a loved one.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: São Paulo-SP, Brazil
+  source: https://www.qedinvestors.com/companies/amparo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amparo
+- name: Aplazo
+  url: https://aplazo.mx/pages/home
+  description: Aplazo is a modern payment network that offers payment solutions and merchant tools to
+    help merchants sell more and grow their brands.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Mexico City
+  source: https://www.qedinvestors.com/companies/aplazo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aplazo
+- name: Applepie Capital
+  url: http://applepiecapital.com
+  description: Capital ApplePie Capital is an online lender that provides a fresh approach to franchise
+    financing, a growing market with over $130 Billion in annual debt capital demand.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/applepie-capital
+  in_network: false
+  is_api_provider: false
+  suggested_slug: applepie-capital
+- name: April
+  url: https://www.getapril.com/
+  description: April is an intelligent tax platform that offers a fast, frictionless and rewarding tax
+    experience.
+  sector: tax
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/april
+  in_network: false
+  is_api_provider: false
+  suggested_slug: april
+- name: Astrada
+  url: https://astrada.co/
+  description: Astrada is the unified API for transaction data.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/astrada
+  in_network: false
+  is_api_provider: false
+  suggested_slug: astrada
+- name: Atomic
+  url: https://www.atomicvest.com/
+  description: Atomic enables consumer-facing fintechs and banks to integrate wealth management and trading
+    into their products in a frictionless way.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/atomic
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atomic
+- name: Avant
+  url: http://avant.com
+  description: Avant is dedicated to building premier digital banking solutions for the middle class through
+    a combination of technology, analytics and superior customer service.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Chicago, Ill
+  source: https://www.qedinvestors.com/companies/avant
+  in_network: false
+  is_api_provider: false
+  suggested_slug: avant
+- name: Avidxchange
+  url: http://avidxchange.com
+  description: AvidXchange revolutionizes the way companies pay their bills by providing a solution that
+    streamlines the entire Accounts Payable process–from invoice receipt through vendor payment.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Charlotte, NC
+  source: https://www.qedinvestors.com/companies/avidxchange
+  in_network: false
+  is_api_provider: false
+  suggested_slug: avidxchange
+- name: Bambee
+  url: http://bambee.com
+  description: Founded in 2016, Bambee has been at the forefront of solving the HR problem for small businesses
+    since its inception.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Los Angeles, Calif
+  source: https://www.qedinvestors.com/companies/bambee
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bambee
+- name: Betterfly
+  url: https://betterfly.cl/
+  description: Betterfly is a leading technology company that combines insurance, wellbeing and social
+    purpose with a mission to help people do better, live better, and be better.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: Santiago, Chile
+  source: https://www.qedinvestors.com/companies/betterfly
+  in_network: false
+  is_api_provider: false
+  suggested_slug: betterfly
+- name: Bhub
+  url: https://bhub.com/
+  description: BHub is a SaaS-based back-office platform designed to unburden entrepreneurs by delegating
+    all the finance and administrative work.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/bhub
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bhub
+- name: Bitso
+  url: http://bitso.com
+  description: Bitso is Latin America’s leading and most trusted cryptocurrency platform with a community
+    of millions of users.
+  sector: crypto
+  stage: unknown
+  status: active
+  hq: Mexico City
+  source: https://www.qedinvestors.com/companies/bitso
+  slug: bitso
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Blackbird Labs Inc
+  url: http://blackbird.xyz
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/blackbird-labs-inc
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blackbird-labs-inc
+- name: Blooom
+  url: http://blooom.com
+  description: Blooom provides a unique service that is disrupting the financial industry by bringing
+    investment advice to an underserved group of middle-class retirement savers.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: Overland Park, Ka
+  source: https://www.qedinvestors.com/companies/blooom
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blooom
+- name: Caliza
+  url: http://caliza.co/
+  description: Caliza is an API platform that enables businesses around the world to provide digital dollar
+    accounts to their users via stablecoins.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/caliza
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caliza
+- name: Capchase
+  url: https://www.capchase.com/
+  description: Capchase is a platform for recurring-revenue companies to secure non-dilutive capital.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/capchase
+  in_network: false
+  is_api_provider: false
+  suggested_slug: capchase
+- name: Capim
+  url: https://www.capim.com.br/
+  description: Capim is fueled by the ambition of enabling healthcare access to all.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/capim
+  in_network: false
+  is_api_provider: false
+  suggested_slug: capim
+- name: Caribou
+  url: https://www.gocaribou.com/
+  description: Caribou is an auto fintech platform dedicated to transforming consumers’ financial relationship
+    with their cars.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Washington, DC
+  source: https://www.qedinvestors.com/companies/caribou
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caribou
+- name: Carmoola
+  url: https://www.carmoola.co.uk/
+  description: No more wasted time hunting down the perfect car, only to find you can’t afford it, Carmoola
+    gives users an immediate pre-approved budget and virtual card for instant purchasing.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/carmoola
+  in_network: false
+  is_api_provider: false
+  suggested_slug: carmoola
+- name: Catena
+  url: https://catena.com/
+  description: Catena is a banking and governance platform for AI agents.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Boston, Massachusetts
+  source: https://www.qedinvestors.com/companies/catena
+  in_network: false
+  is_api_provider: false
+  suggested_slug: catena
+- name: Cedar
+  url: https://www.cedar.money/us
+  description: Founded in 2022, Cedar Money was created to transform the global payment landscape by pioneering
+    modern approaches to international money flows.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Tel Aviv, Israel
+  source: https://www.qedinvestors.com/companies/cedar
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cedar
+- name: Clearscore
+  url: http://clearscore.com
+  description: ClearScore is the UK’s first ever service giving consumers completely free access to their
+    credit report and credit score.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/clearscore
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clearscore
+- name: Cloover
+  url: https://cloover.co
+  description: Cloover is a Berlin-based startup with the vision to connect 1bn people to renewable energy.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Berlin, Germany
+  source: https://www.qedinvestors.com/companies/cloover
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cloover
+- name: Cobre
+  url: http://www.cobre.co
+  description: Cobre is the best way for companies to pay.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Bogota, Colombia
+  source: https://www.qedinvestors.com/companies/cobre
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cobre
+- name: Codoxo
+  url: https://www.codoxo.com/
+  description: At Codoxo, formerly Fraudscope, we’re on a mission to make our healthcare system more affordable
+    and effective.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Atlanta, Ga
+  source: https://www.qedinvestors.com/companies/codoxo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: codoxo
+- name: Collective
+  url: http://collective.com/
+  description: Collective believes there is strength in numbers.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/collective
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collective
+- name: Cora
+  url: https://www.cora.com.br/
+  description: Cora is a digital bank for self-employed and small & medium enterprises.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Sao Paolo, Brazil
+  source: https://www.qedinvestors.com/companies/cora
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cora
+- name: Coru
+  url: http://coru.com
+  description: Coru is the leading financial coaching platform in Mexico, working to mitigate financial
+    stress for people across all stages of their lives.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/coru
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coru
+- name: Covalto
+  url: https://covalto.com/
+  description: Covalto is a leading digital banking and services platform for SMEs in Mexico.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/covalto
+  in_network: false
+  is_api_provider: false
+  suggested_slug: covalto
+- name: Coverforce
+  url: http://www.cover-force.com
+  description: CoverForce is an InsurTech platform built for Insurance Networks, and their agents, to
+    quote, bind and pay insurance policies from a curated group of their Preferred Carriers.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/coverforce
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coverforce
+- name: Creditas
+  url: http://creditas.com
+  description: Creditas (formerly BankFacil) is an online personal finance solution that improves the
+    relationship between borrowers and lenders.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/creditas
+  in_network: false
+  is_api_provider: false
+  suggested_slug: creditas
+- name: Credit Karma
+  url: https://www.creditkarma.com/
+  description: Credit Karma offers a truly free way for consumers to track their credit scores and credit
+    bureau profile.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/credit-karma
+  in_network: false
+  is_api_provider: false
+  suggested_slug: credit-karma
+- name: Current
+  url: https://current.com/
+  description: Current is a leading U.S.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/current
+  in_network: false
+  is_api_provider: false
+  suggested_slug: current
+- name: Decent
+  url: http://decent.com
+  description: Decent envisions a world where everyone has the freedom to do the work they want without
+    sacrificing access to affordable and comprehensive health insurance.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: Austin, Texas
+  source: https://www.qedinvestors.com/companies/decent
+  in_network: false
+  is_api_provider: false
+  suggested_slug: decent
+- name: Dorsata
+  url: http://dorsata.com
+  description: Dorsata enables healthcare providers to make better decisions that are informed by data
+    and best practices.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Washington DC
+  source: https://www.qedinvestors.com/companies/dorsata
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dorsata
+- name: Easyhealth
+  url: https://www.joineasyhealth.com/
+  description: EasyHealth is connecting coverage and care with the first end-to-end Medicare experience.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Beverly Hills, Calif
+  source: https://www.qedinvestors.com/companies/easyhealth
+  in_network: false
+  is_api_provider: false
+  suggested_slug: easyhealth
+- name: Efficient Capital Labs
+  url: https://www.ecaplabs.com/
+  description: Founded in 2022, Efficient Capital Labs (ECL) is a US headquartered fintech that transforms
+    SaaS startups’ recurring revenue into upfront capital for growth.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/efficient-capital-labs
+  in_network: false
+  is_api_provider: false
+  suggested_slug: efficient-capital-labs
+- name: Escale
+  url: https://www.escale.com.br/
+  description: Escale, based in São Paulo, helps enterprise companies scale their sales with AI.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/escale
+  in_network: false
+  is_api_provider: false
+  suggested_slug: escale
+- name: Fairplay
+  url: http://getfairplay.com
+  description: Fairplay is a revenue-based financing platform that supports entrepreneurs growth by investing
+    in their performance marketing campaigns and their inventories with a flexible, fast, and friendly
+    product.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/fairplay
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fairplay
+- name: Felix
+  url: https://www.felixpago.com/en
+  description: Félix is ​​a chat-based platform that enables Latinos in the U.S.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Miami, Fla
+  source: https://www.qedinvestors.com/companies/felix
+  in_network: false
+  is_api_provider: false
+  suggested_slug: felix
+- name: Fermat
+  url: https://fermatcommerce.com/
+  description: FERMÀT is the next generation of influencer driven e-commerce, where influencers and brands
+    collide.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/fermat
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fermat
+- name: Finch
+  url: http://www.tryfinch.com
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/finch
+  slug: finch
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Finkargo
+  url: https://www.finkargo.com/
+  description: Finkargo is a Colombomexican international trade platform founded in 2021 by Santiago Molina,
+    Andres Ferrer, and Tomas Shuk.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Bogota, Colombia
+  source: https://www.qedinvestors.com/companies/finkargo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finkargo
+- name: Flywire
+  url: https://www.flywire.com/
+  description: Flywire, formerly peerTransfer, is a leading provider of high-ticket payment solutions,
+    connecting educational and healthcare institutions with consumers on six continents.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Boston, MA
+  source: https://www.qedinvestors.com/companies/flywire
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flywire
+- name: Footprint
+  url: https://onefootprint.com
+  description: Founded in 2022, Footprint is a New York-based technology company built to help banks,
+    marketplaces and fintechs onboard their users.
+  sector: marketplace
+  stage: unknown
+  status: active
+  hq: New York City
+  source: https://www.qedinvestors.com/companies/footprint
+  slug: footprint
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Freemodel
+  url: http://www.freemodel.com
+  description: Freemodel was founded in 2020 with a mission to streamline and improve the residential
+    real estate sale process while giving homeowners a chance to get the maximum possible upside from
+    the sale of their homes.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Burlingame, Calif
+  source: https://www.qedinvestors.com/companies/freemodel
+  in_network: false
+  is_api_provider: false
+  suggested_slug: freemodel
+- name: Freewill
+  url: http://freewill.com
+  description: FreeWill creates software that drives increased planned and major giving to nonprofits.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/freewill
+  in_network: false
+  is_api_provider: false
+  suggested_slug: freewill
+- name: Gain Credit
+  url: http://gaincredit.com
+  description: Credit (formerly Global Analytics) GAIN Credit, Inc.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: San Diego, Calif
+  source: https://www.qedinvestors.com/companies/gain-credit
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gain-credit
+- name: Getground
+  url: http://www.getground.co.uk
+  description: GetGround makes it easier, faster and more cost-effective for landlords and property investors
+    based anywhere in the world to manage their residential property investments in England and Wales.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/getground
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getground
+- name: Govport
+  url: http://www.govport.com
+  description: GovPort powers performance, compliance, and collaboration for the government contractors
+    (GovCons) who keep America on track.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Washington, D.C
+  source: https://www.qedinvestors.com/companies/govport
+  in_network: false
+  is_api_provider: false
+  suggested_slug: govport
+- name: Greensky
+  url: http://greensky.com
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Atlanta, Ga
+  source: https://www.qedinvestors.com/companies/greensky
+  in_network: false
+  is_api_provider: false
+  suggested_slug: greensky
+- name: Habitto
+  url: https://www.habitto.com/
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Tokyo, Japan
+  source: https://www.qedinvestors.com/companies/habitto
+  in_network: false
+  is_api_provider: false
+  suggested_slug: habitto
+- name: Hello Alice
+  url: https://helloalice.com/
+  description: Hello Alice connects small business owners to capital, networks and business services through
+    a data-driven, machine learning platform that considers who they are and the business they're trying
+    to grow.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Houston, Texas
+  source: https://www.qedinvestors.com/companies/hello-alice
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hello-alice
+- name: House Canary
+  url: http://housecanary.com
+  description: Founded in 2013, HouseCanary’s mission is to help capital markets and real estate investors
+    make better decisions through professional-grade home valuation products.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/house-canary
+  slug: housecanary
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hydrolix
+  url: https://hydrolix.io
+  description: Hydrolix is the only data lake platform transforming the economics of log data.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Porland, Ore
+  source: https://www.qedinvestors.com/companies/hydrolix
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hydrolix
+- name: Insuretech Connect
+  url: http://insuretechconnect.com
+  description: The world’s largest gathering of insurance leaders and innovators.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/insuretech-connect
+  in_network: false
+  is_api_provider: false
+  suggested_slug: insuretech-connect
+- name: Ipid
+  url: https://ipid.tech/
+  description: Founded in 2021, iPiD is a fast-growing, venture-backed fintech startup with a diverse
+    international team boasting extensive experience from leading payment and technology companies such
+    as SWIFT and Thomson Reuters.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Singapore
+  source: https://www.qedinvestors.com/companies/ipid
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ipid
+- name: Jupiter
+  url: https://jupiter.money/
+  description: Founded in 2019, Jupiter is a leading neo-bank in India and is on a mission to provide
+    hassle-free, 100% digital banking services to millennials.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Bangalore, India
+  source: https://www.qedinvestors.com/companies/jupiter
+  slug: jupiter-money
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Kalto
+  url: https://kalto.la/
+  description: Kalto provides B2B merchants and marketplaces with unique payment capabilities in Latin
+    America.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/kalto
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kalto
+- name: Kamino
+  url: http://kamino.com.br
+  description: Kamino is the most complete financial planning and spend management and execution hub designed
+    to provide CFOs and entrepreneurs with real-time business and financial insights, enhancing their
+    capacity to make faster and more solid decisions on cash efficiency and capital allocat
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/kamino
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kamino
+- name: Kanastra
+  url: https://kanastra.com.br/
+  description: Kanastra is the tech-driven back office for alternative investments.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: Uberlândia, Brazil
+  source: https://www.qedinvestors.com/companies/kanastra
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kanastra
+- name: Kavak
+  url: http://kavak.com
+  description: When you buy a new car, it loses 30% of its value when removed from the dealership.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/kavak
+  slug: kavak
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Kin
+  url: https://www.kin.com/
+  description: Insurance Kin Insurance is an insurance technology company that exists to change home insurance
+    from what it is to what it should be.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: Chicago, Ill
+  source: https://www.qedinvestors.com/companies/kin
+  slug: kin
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Klarna
+  url: https://www.klarna.com/us/
+  description: Klarna aims to change the way consumers pay for products online.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Stockholm, Sweden
+  source: https://www.qedinvestors.com/companies/klarna
+  slug: klarna
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Konfio
+  url: http://konfio.com
+  description: Konfio builds digital banking, payments and software tools to boost SME growth and productivity.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/konfio
+  slug: konfio
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Kudos
+  url: https://joinkudos.com/
+  description: Kudos is an AI-powered smart wallet that automates financial decisions by choosing the
+    best payment method at checkout, tailoring credit card recommendations to individual spending habits,
+    and delivering actionable insights that boost earnings and savings.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: Los Angeles, Calif
+  source: https://www.qedinvestors.com/companies/kudos
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kudos
+- name: Lastro
+  url: http://www.lastro.co
+  description: Lastro is an all-in-one real estate management platform with integrated payments that simplifies
+    managing rental properties.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/lastro
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lastro
+- name: Lendup
+  url: http://www.lendup.com
+  description: LendUp is on a mission to help anyone get on a path to better financial health.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: San Francisco, CA
+  source: https://www.qedinvestors.com/companies/lendup
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lendup
+- name: Leo1
+  url: https://www.leo1.in/
+  description: LEO1, a pioneering Edu-fintech company, transforms financial operations for educational
+    institutions through its comprehensive Financial SAAS platform.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mumbai, India
+  source: https://www.qedinvestors.com/companies/leo1
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leo1
+- name: Loft
+  url: http://loft.com.br
+  description: Loft is Brazil's first transactional marketplace for real estate, leveraging proprietary
+    data and technology to make the process of buying and selling apartments fast, fun, and efficient.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/loft
+  in_network: false
+  is_api_provider: false
+  suggested_slug: loft
+- name: Lorikeet
+  url: https://www.lorikeetcx.ai
+  description: Lorikeet is a platform that complex and regulated businesses use to provide their customers
+    with a universal concierge.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sydney, Australia
+  source: https://www.qedinvestors.com/companies/lorikeet
+  slug: lorikeet
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Makershub
+  url: https://makershub.ai
+  description: At MakersHub, we simplify accounts payable for businesses with complex needs.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Austin, Texas
+  source: https://www.qedinvestors.com/companies/makershub
+  in_network: false
+  is_api_provider: false
+  suggested_slug: makershub
+- name: Mattilda
+  url: https://mattilda.io/
+  description: Mattilda is a Mexico City-based fintech/edtech startup aimed at becoming the financial
+    partner and SaaS provider for private schools.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/mattilda
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mattilda
+- name: Melonn
+  url: http://www.melonn.com
+  description: Melonn is a Latin American startup founded in November 2020 by Andrés Gomez (CEO), Alejandro
+    Celis (CPO), Andrés Archila (COO), Felipe Jaramillo (CTO), Sebastián Román (Director of Data Science)
+    and Daniel Castrillón (Director of Software Engineering & DevOps).
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Bogota, Colombia
+  source: https://www.qedinvestors.com/companies/melonn
+  in_network: false
+  is_api_provider: false
+  suggested_slug: melonn
+- name: Meow
+  url: http://www.meow.com
+  description: Meow.com provides bank accounts and virtual cards for AI agents.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: Miami, Fla
+  source: https://www.qedinvestors.com/companies/meow
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meow
+- name: Midas
+  url: https://www.getmidas.com/
+  description: Midas is the leading retail investment platform in Turkey and MENA, offering its users
+    seamless and cost-effective access to U.S.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: Istanbul, Turkey
+  source: https://www.qedinvestors.com/companies/midas
+  in_network: false
+  is_api_provider: false
+  suggested_slug: midas
+- name: Milo Credit
+  url: https://www.milocredit.com/
+  description: Milo is a financial technology company that is reimagining the way global consumers access
+    financial solutions in a borderless world.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Miami, Fla
+  source: https://www.qedinvestors.com/companies/milo-credit
+  in_network: false
+  is_api_provider: false
+  suggested_slug: milo-credit
+- name: Minu
+  url: http://minu.mx
+  description: Minu, an employee financial wellness company, is the market leader in pay on demand in
+    Mexico.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/minu
+  in_network: false
+  is_api_provider: false
+  suggested_slug: minu
+- name: Mission Lane
+  url: http://missionlane.com
+  description: Mission Lane was created from the spin-off of LendUp’s credit card business.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: Oakland, Calif
+  source: https://www.qedinvestors.com/companies/mission-lane
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mission-lane
+- name: Model Ml
+  url: https://www.modelml.com/
+  description: ML Model ML is the AI workflow builder for financial services.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York City
+  source: https://www.qedinvestors.com/companies/model-ml
+  in_network: false
+  is_api_provider: false
+  suggested_slug: model-ml
+- name: Teamapt
+  url: https://moniepoint.com/
+  description: Moniepoint is an all-in-one digital financial services platform for businesses.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/teamapt
+  slug: moniepoint
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Morado
+  url: https://soymorado.co/
+  description: At Morado we are building a next generation B2B marketplace for the beauty and wellness
+    industry, the everything store for beauty shops.
+  sector: marketplace
+  stage: unknown
+  status: active
+  hq: Bogota, Colombia
+  source: https://www.qedinvestors.com/companies/morado
+  in_network: false
+  is_api_provider: false
+  suggested_slug: morado
+- name: Mottu
+  url: https://mottu.com.br/
+  description: Founded in 2020, Mottu is helping to establish Latin America's last-mile connectivity.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/mottu
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mottu
+- name: Mynd
+  url: https://www.mynd.co/
+  description: Mynd democratizes access to real estate investing by combining deep technology and industry
+    expertise to provide a revolutionary, institutional-grade platform that enables anyone to buy, manage
+    or sell Single Family Rental (SFR) properties across the United States.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Oakland, Calif
+  source: https://www.qedinvestors.com/companies/mynd
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mynd
+- name: Niko
+  url: https://Niko.mx
+  description: Niko.mx, a next-generation electrification company backed by top-tier venture capital firms,
+    is accelerating the adoption of solar and electrification solutions for households and small businesses
+    across Mexico.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City
+  source: https://www.qedinvestors.com/companies/niko
+  in_network: false
+  is_api_provider: false
+  suggested_slug: niko
+- name: Noodle
+  url: https://noodle.cx
+  description: Noodle is the all-in-one platform for the creator economy.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/noodle
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noodle
+- name: Ntropy
+  url: https://ntropy.network/
+  description: Co-founded by CEO Naré Vardanyan and CTO Ilia Zintchenko, Ntropy believe that by turning
+    data into leverage rather than a barrier is a gamechanger in financial services.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/ntropy
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ntropy
+- name: Nubank
+  url: https://nubank.com.br/en/
+  description: Nubank is the leading financial technology company in Latin America and the largest independent
+    neobank in the world, with more than 20 million clients.
+  sector: banking
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/nubank
+  slug: nubank
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nuvocargo
+  url: https://www.nuvocargo.com/en
+  description: Nuvocargo is the only all-in-one digital platform for cross-border trade offering freight
+    forwarding, customs brokerage, cargo insurance and supply chain financing.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/nuvocargo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nuvocargo
+- name: Nymcard
+  url: http://www.nymcard.com
+  description: NymCard is MENA's trusted payments and embedded finance platform, enabling banks, fintechs,
+    and enterprises to launch, scale, and customize financial services.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Dubai, UAE
+  source: https://www.qedinvestors.com/companies/nymcard
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nymcard
+- name: Oatfi
+  url: https://oatfi.com/
+  description: OatFi is a New York-based fintech company founded by Mike Barbosa and John Jordan in 2021.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York City
+  source: https://www.qedinvestors.com/companies/oatfi
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oatfi
+- name: Ocrolus
+  url: http://ocrolus.com
+  description: Ocrolus is a document automation platform that powers the digital lending ecosystem, automating
+    credit decisions across fintech, mortgage and banking.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/ocrolus
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ocrolus
+- name: Onecard
+  url: https://www.getonecard.app/
+  description: FPL Technologies is on a mission to re-imagine credit and payments from first principles
+    and is building a mobile-first credit card in India.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: Pune, India
+  source: https://www.qedinvestors.com/companies/onecard
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onecard
+- name: Pashouses
+  url: https://pashouses.id/
+  description: Pashouses is an end-to-end transactional marketplace for buying and selling houses inJakarta,
+    from brokerage and renovation to staging and mortgage.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Jakarta, Indonesia
+  source: https://www.qedinvestors.com/companies/pashouses
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pashouses
+- name: Payabli
+  url: http://payabli.com
+  description: Payabli is a payment infrastructure and monetization platform with a core thesis, “If you’re
+    a software company you’re a payments company.” Payabli helps software companies make payments a core
+    part of their business model to drive revenue, enhance customer lifetime value and boo
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Miami, Fla
+  source: https://www.qedinvestors.com/companies/payabli
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payabli
+- name: Payhawk
+  url: https://payhawk.com/
+  description: We fuel wealth-aware campaigns empowering our clients to discover their next best prospect
+    to drive growth.
+  sector: wealth-management
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/payhawk
+  slug: payhawk
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pitzi
+  url: http://pitzi.com.br
+  description: Pitzi is the leading independent provider of phone protection plans in Brazil.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/pitzi
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pitzi
+- name: Plug
+  url: https://www.plugpagamentos.com/?lang=en
+  description: Plug was founded in April 2020 by a team of payments experts to provide growing businesses
+    with the best payments technology available.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Rio de Janeiro, Brazil
+  source: https://www.qedinvestors.com/companies/plug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plug
+- name: Plumery
+  url: http://plumery.com
+  description: Headquartered in the Netherlands, Plumery operates with a diverse team that embodies a
+    unique combination of seasoned expertise and vibrant innovation.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Amsterdam, The Netherlands
+  source: https://www.qedinvestors.com/companies/plumery
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plumery
+- name: Pomelo
+  url: https://pomelo.la/en/
+  description: Pomelo, is a banking as a service platform for Latin America, founded by former Mastercard,
+    Mercado Pago and Naranja X executives.
+  sector: baas
+  stage: unknown
+  status: active
+  hq: Buenos Aries, Argentina
+  source: https://www.qedinvestors.com/companies/pomelo
+  slug: pomelo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Precium
+  url: https://www.precium.com/
+  description: Precium (formerly Revio) is the first African payment platform purpose-built for enterprise.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Delaware / Cape Town, South Africa
+  source: https://www.qedinvestors.com/companies/precium
+  in_network: false
+  is_api_provider: false
+  suggested_slug: precium
+- name: Proper
+  url: https://proper.ai/
+  description: Proper is building the most advanced automated accounting solution designed specifically
+    for the real estate industry.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: San Francisco
+  source: https://www.qedinvestors.com/companies/proper
+  in_network: false
+  is_api_provider: false
+  suggested_slug: proper
+- name: Prosper
+  url: http://prosper.com
+  description: Prosper is America’s first peer-to-peer lending marketplace.
+  sector: lending
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/prosper
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prosper
+- name: Provide
+  url: https://www.getprovide.com/
+  description: Provide's mission is to create financial products that make starting and running a healthcare
+    practice easier.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/provide
+  in_network: false
+  is_api_provider: false
+  suggested_slug: provide
+- name: Quantinuum
+  url: https://www.quantinuum.com/
+  description: Quantinuum is the world leader in quantum computing.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Broomfield, Colorado
+  source: https://www.qedinvestors.com/companies/quantinuum
+  slug: quantinuum
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Quicknode
+  url: http://www.quicknode.com
+  description: QuickNode is building infrastructure to support the future of Web3.
+  sector: crypto
+  stage: unknown
+  status: active
+  hq: Miami, Fla
+  source: https://www.qedinvestors.com/companies/quicknode
+  slug: quicknode
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Quintoandar
+  url: http://quintoandar.com
+  description: QuintoAndar is an end-to-end marketplace that facilitates the long-term residential rental
+    process from start to finish.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/quintoandar
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quintoandar
+- name: Rabbet
+  url: http://rabbet.com
+  description: Rabbet is bringing efficiency, accuracy and transparency to the construction economy.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Austin, Texas
+  source: https://www.qedinvestors.com/companies/rabbet
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rabbet
+- name: Raenest
+  url: http://www.raenest.com
+  description: Raenest is a modern, multi-currency platform for Africans that makes managing money across
+    borders easy.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Lagos, Nigeria
+  source: https://www.qedinvestors.com/companies/raenest
+  in_network: false
+  is_api_provider: false
+  suggested_slug: raenest
+- name: Rain
+  url: http://rain.us
+  description: Rain provides instant pay and other financial wellness benefits to employees of US companies.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Los Angeles, Calif
+  source: https://www.qedinvestors.com/companies/rain
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rain
+- name: Refyne
+  url: https://www.refyne.co.in/
+  description: Refyne is India’s first Earned Wage Access (EWA) provider based in Bengaluru.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Bangalore, India
+  source: https://www.qedinvestors.com/companies/refyne
+  in_network: false
+  is_api_provider: false
+  suggested_slug: refyne
+- name: Remedial Health
+  url: http://www.remedial.health
+  description: Remedial Health develops tech-enabled solutions to make Africa’s pharmaceutical sector
+    more efficient.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Lagos, Nigeria
+  source: https://www.qedinvestors.com/companies/remedial-health
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remedial-health
+- name: Remitly
+  url: http://remitly.com
+  description: Remitly is the largest independent digital remittance company in the United States, transferring
+    more than $1.5 billion from its customers in the U.S and Canada to loved ones throughout the world.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Seattle, Wa
+  source: https://www.qedinvestors.com/companies/remitly
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remitly
+- name: Remofirst
+  url: https://www.remofirst.com/
+  description: Remofirst is a provider of employer of record services, founded in 2021 by Nurasyl Serik
+    and Volodymyr Fedoriv.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Remote-first
+  source: https://www.qedinvestors.com/companies/remofirst
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remofirst
+- name: Resolve
+  url: http://helloresolve.com
+  description: Resolve helps people in debt navigate their way to financial health.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: Oakland, Calif
+  source: https://www.qedinvestors.com/companies/resolve
+  in_network: false
+  is_api_provider: false
+  suggested_slug: resolve
+- name: Restless
+  url: http://restless.co.uk
+  description: Less Rest Less is the UK’s largest and fastest growing jobs, advice and community site
+    for the over-50s.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/restless
+  in_network: false
+  is_api_provider: false
+  suggested_slug: restless
+- name: Roofstock
+  url: https://www.roofstock.com/
+  description: Roofstock is changing the way people invest in real estate.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Oakland, Calif
+  source: https://www.qedinvestors.com/companies/roofstock
+  slug: stessa
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Seek
+  url: https://www.seekrecs.com/
+  description: Seek is a content platform that connects tastemakers in the consumer leisure space with
+    millions of consumers seeking trusted and relevant recommendations on where to eat, drink and spend
+    their leisure time.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/seek
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seek
+- name: Shakepay
+  url: https://shakepay.com/
+  description: 'Shakepay is a Montreal-based technology company that makes it easy for Canadians to buy
+    and earn the soundest money to ever exist: bitcoin.'
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Montreal, Canada
+  source: https://www.qedinvestors.com/companies/shakepay
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shakepay
+- name: Shop Circle
+  url: http://www.shopcircle.co
+  description: Shop Circle , the first operator of e-commerce tools, is a technology-driven company that
+    acquires and grows best-in-class e-commerce software.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: London
+  source: https://www.qedinvestors.com/companies/shop-circle
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shop-circle
+- name: Sifi
+  url: https://www.sifi.app
+  description: Simplified Financial Solutions Company (SiFi) is a spend management platform designed to
+    provide finance teams with seamless control over corporate spending.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Saudi Arabia
+  source: https://www.qedinvestors.com/companies/sifi
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sifi
+- name: Signifyd
+  url: http://signifyd.com
+  description: Signifyd is a SaaS solution designed for fraud prevention with tools designed to interpret
+    a user’s digital footprint and bridge the gap between online and offline identity.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Jose, Calif
+  source: https://www.qedinvestors.com/companies/signifyd
+  slug: signifyd
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Simplywise
+  url: http://simplywise.com
+  description: SimplyWise helps older Americans never miss a saving.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/simplywise
+  in_network: false
+  is_api_provider: false
+  suggested_slug: simplywise
+- name: Sofi
+  url: http://sofi.com
+  description: SoFi is a values-driven company on a mission to help our members get their money right.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/sofi
+  slug: sofi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Solfacil
+  url: https://landing.solfacil.com.br/
+  description: Solfácil’s purpose is to make solar available to all.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/solfacil
+  in_network: false
+  is_api_provider: false
+  suggested_slug: solfacil
+- name: Spinwheel
+  url: https://www.spinwheel.io/
+  description: Spinwheel helps Americans get out of debt sooner by embedding the payment, management and
+    application of loans into the apps they use the most.
+  sector: lending
+  stage: unknown
+  status: active
+  hq: Oakland, Calif
+  source: https://www.qedinvestors.com/companies/spinwheel
+  slug: spinwheel
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stitch
+  url: https://www.stitch.money/
+  description: Stitch is a payments infrastructure company that helps businesses seamlessly connect to
+    the financial system, so they can deliver a better user experience and optimize operations.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Cape Town, South Africa
+  source: https://www.qedinvestors.com/companies/stitch
+  slug: stitch
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stream
+  url: https://stream.co/en-us
+  description: Stream is the world's most widely-used workplace finance provider.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/stream
+  slug: stream
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Summer 2
+  url: http://www.gosummer.com
+  description: Summer is on a mission to provide more people with access to second homes by lowering the
+    entry and ongoing costs, reducing the red tape associated with the traditional process and mitigating
+    future risks for Members.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/summer-2
+  in_network: false
+  is_api_provider: false
+  suggested_slug: summer-2
+- name: Summer
+  url: https://www.meetsummer.org/
+  description: Summer combines innovative technology and policy expertise to serve student loan borrowers
+    across the country.
+  sector: lending
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/summer
+  in_network: false
+  is_api_provider: false
+  suggested_slug: summer
+- name: Sundae
+  url: http://sundae.com
+  description: Sundae’s mission is to help homeowners get the best outcome when it’s time to sell a house
+    that needs some love.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/sundae
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sundae
+- name: Swap
+  url: https://www.swap-commerce.com/
+  description: Swap powers operations for ecommerce brands looking to scale.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/swap
+  in_network: false
+  is_api_provider: false
+  suggested_slug: swap
+- name: Syntage
+  url: http://www.syntage.com
+  description: Syntage is a business data platform (Open Data / Open Finance) that allows you to connect
+    to your business customers' private and public data in LatAm.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/syntage
+  in_network: false
+  is_api_provider: false
+  suggested_slug: syntage
+- name: Tangelo
+  url: https://www.tangelolatam.com/
+  description: Tangelo is a financial technology company with operations across Latin America.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/tangelo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tangelo
+- name: Teamshares Inc
+  url: https://www.teamshares.com/
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, NY
+  source: https://www.qedinvestors.com/companies/teamshares-inc
+  in_network: false
+  is_api_provider: false
+  suggested_slug: teamshares-inc
+- name: The Muse
+  url: http://themuse.com
+  description: Founded in 2011 by Kathryn Minshew and Alexandra Cavoulacos, The Muse delivers quality
+    advice, skill-building resources, and personalized coaching services to job seekers and ambitious
+    professionals.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: New York, N.Y
+  source: https://www.qedinvestors.com/companies/the-muse
+  slug: themuse
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tienda Pago
+  url: http://tiendapago.com
+  description: Tienda Pago is an innovative lending company that offers short-term, one-week, credit lines
+    to small retailers to finance their weekly inventory of consumer packaged goods companies in Latin
+    America.
+  sector: lending
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/tienda-pago
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tienda-pago
+- name: Tint
+  url: https://www.tint.ai/
+  description: Tint empowers tech platforms to sell more by embedding unique insurance products that protect
+    their end-users.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/tint
+  slug: tint
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tone
+  url: https://tone.is
+  description: Tone makes royalty processing simple for modern record labels.We ingest all sales and cost
+    data, calculate royalties accurately and quickly, and enable one-click payments for your entire roster.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Los Angeles, Calif
+  source: https://www.qedinvestors.com/companies/tone
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tone
+- name: Treasury Prime
+  url: http://treasuryprime.com
+  description: 'Treasury Prime is modernizing the banking system to deliver new value to everyone: consumers,
+    businesses, financial technology companies, and banks.'
+  sector: banking
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/treasury-prime
+  slug: treasury-prime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Trellis
+  url: http://www.trellisconnect.com
+  description: Trellis is the internet technology company providing secure, digital solutions that help
+    consumers get the most value from their insurance.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/trellis
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trellis
+- name: True Link
+  url: http://truelinkfinancial.com
+  description: True Link is a diversified financial services firm offering a range of money management,
+    investment, and insurance products, primarily for retirees.
+  sector: insurtech
+  stage: unknown
+  status: active
+  hq: San Francisco, Calif
+  source: https://www.qedinvestors.com/companies/true-link
+  in_network: false
+  is_api_provider: false
+  suggested_slug: true-link
+- name: Upswing
+  url: http://upswing.one
+  description: At Upswing, our mission is to build a more efficient, customisable and inclusive infrastructure
+    which will enable the next wave of innovation in financial services.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Mumbai, India
+  source: https://www.qedinvestors.com/companies/upswing
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upswing
+- name: Velotax
+  url: https://velotax.com.br/
+  description: Velotax is a Brazilian digital credit company with an app and website, 100 percent online.
+  sector: credit
+  stage: unknown
+  status: active
+  hq: São Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/velotax
+  in_network: false
+  is_api_provider: false
+  suggested_slug: velotax
+- name: Vixtra
+  url: https://www.vixtra.com/
+  description: Vixtra is a trade finance fintech that works as a payment method in the relationship between
+    importers and exporters, allowing international suppliers to offer extended payment terms and importers
+    to pay their purchases over time.
+  sector: payments
+  stage: unknown
+  status: active
+  hq: Sao Paulo, Brazil
+  source: https://www.qedinvestors.com/companies/vixtra
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vixtra
+- name: Wander
+  url: https://www.wander.com/
+  description: Wander's mission is to help people find their happy place.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Austin, Texas
+  source: https://www.qedinvestors.com/companies/wander
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wander
+- name: Warren
+  url: http://warren.com.br
+  description: Warren is redefining the investment landscape in Brazil by offering clients a digital platform
+    that provides trading tools, investment advice and the opportunity to connect with financial advisors
+    on a clear and transparent platform.
+  sector: proptech
+  stage: unknown
+  status: active
+  hq: Port Alegre, Brazil
+  source: https://www.qedinvestors.com/companies/warren
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warren
+- name: Wayflyer
+  url: http://wayflyer.com
+  description: Wayflyer helps eCommerce stores worldwide reach their growth potential by bridging the
+    working capital gap and solving common marketing problems.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: Dublin, Ireland
+  source: https://www.qedinvestors.com/companies/wayflyer
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wayflyer
+- name: Weavr
+  url: https://www.weavr.io/
+  description: Weavr.io is the open collaboration platform for digital innovators and fintechs.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/weavr
+  in_network: false
+  is_api_provider: false
+  suggested_slug: weavr
+- name: Wildfire
+  url: https://wildfire-corp.com/
+  description: Wildfire Systems provides an enterprise platform which enables partners to embed social
+    commerce, rewards, and cashback offerings within their existing services.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: San Diego, Calif
+  source: https://www.qedinvestors.com/companies/wildfire
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wildfire
+- name: Wonder Brands
+  url: https://wonderbrands.co/
+  description: Wonder Brands is an e-commerce holding company that acquires and optimizes independent
+    brands that sell on leading marketplaces in Latin America.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/wonder-brands
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wonder-brands
+- name: Worky
+  url: http://worky.mx/
+  description: Worky is an all-in-one HR software and payroll platform for Mexican SMBs.
+  sector: payroll
+  stage: unknown
+  status: active
+  hq: Mexico City, Mexico
+  source: https://www.qedinvestors.com/companies/worky
+  in_network: false
+  is_api_provider: false
+  suggested_slug: worky
+- name: Xpertsea
+  url: http://www.xpertsea.com
+  description: XpertSea builds tech and financial solutions that transform how seafood is farmed and traded
+    to help feed the world.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: Quebec, Canada
+  source: https://www.qedinvestors.com/companies/xpertsea
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xpertsea
+- name: Xp Health
+  url: https://xphealth.co
+  description: Health XP Health democratizes access to high-quality, delightful experiences in vision
+    care that double coverage and reduce costs.
+  sector: healthtech
+  stage: unknown
+  status: active
+  hq: San Carlos, Calif
+  source: https://www.qedinvestors.com/companies/xp-health
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xp-health
+- name: Zocks
+  url: https://www.zocks.io
+  description: Zocks is the AI Assistant for financial services.
+  sector: fintech
+  stage: unknown
+  status: active
+  hq: San Francisco
+  source: https://www.qedinvestors.com/companies/zocks
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zocks
+- name: Zopa
+  url: http://zopa.com
+  description: Zopa is the UK’s leading peer-to-peer lending service – bypassing banks and their high
+    charges to put more back into the pockets of the UK’s lenders and borrowers.
+  sector: lending
+  stage: unknown
+  status: active
+  hq: London, England
+  source: https://www.qedinvestors.com/companies/zopa
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zopa
+- name: Zubale
+  url: https://www.zubale.com/
+  description: Through a variety of specialized e-commerce tools and solutions developed with high-performance
+    technology, Zubale empowers retailers by revolutionizing the consumer experience on their digital
+    channels.
+  sector: ecommerce
+  stage: unknown
+  status: active
+  hq: Mexico City
+  source: https://www.qedinvestors.com/companies/zubale
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zubale
