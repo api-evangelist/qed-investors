@@ -3,9 +3,9 @@ method: searched
 source: https://www.qedinvestors.com/companies
 summary:
   portfolio_total: 160
-  in_network: 27
-  api_providers: 14
-  missing: 133
+  in_network: 160
+  api_providers: 31
+  missing: 0
   stubs_created: 0
 companies:
 - name: Airship
@@ -40,9 +40,10 @@ companies:
   status: active
   hq: Chicago, Ill
   source: https://www.qedinvestors.com/companies/amount
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: amount
+  slug: amount
+  matched_by: domain
 - name: Amparo
   url: https://www.amparo.com.vc
   description: Amparo supports bereaved families as they navigate the operational, financial and emotional
@@ -52,9 +53,10 @@ companies:
   status: active
   hq: São Paulo-SP, Brazil
   source: https://www.qedinvestors.com/companies/amparo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: amparo
+  slug: amparo
+  matched_by: domain
 - name: Aplazo
   url: https://aplazo.mx/pages/home
   description: Aplazo is a modern payment network that offers payment solutions and merchant tools to
@@ -64,9 +66,10 @@ companies:
   status: active
   hq: Mexico City
   source: https://www.qedinvestors.com/companies/aplazo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aplazo
+  slug: aplazo
+  matched_by: domain
 - name: Applepie Capital
   url: http://applepiecapital.com
   description: Capital ApplePie Capital is an online lender that provides a fresh approach to franchise
@@ -76,9 +79,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/applepie-capital
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: applepie-capital
+  slug: applepie-capital
+  matched_by: domain
 - name: April
   url: https://www.getapril.com/
   description: April is an intelligent tax platform that offers a fast, frictionless and rewarding tax
@@ -88,9 +92,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/april
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: april
+  slug: april
+  matched_by: name-slug
 - name: Astrada
   url: https://astrada.co/
   description: Astrada is the unified API for transaction data.
@@ -99,9 +104,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/astrada
-  in_network: false
-  is_api_provider: false
-  suggested_slug: astrada
+  in_network: true
+  is_api_provider: true
+  slug: astrada
+  matched_by: domain
 - name: Atomic
   url: https://www.atomicvest.com/
   description: Atomic enables consumer-facing fintechs and banks to integrate wealth management and trading
@@ -111,9 +117,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/atomic
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atomic
+  slug: atomic
+  matched_by: domain
 - name: Avant
   url: http://avant.com
   description: Avant is dedicated to building premier digital banking solutions for the middle class through
@@ -123,9 +130,10 @@ companies:
   status: active
   hq: Chicago, Ill
   source: https://www.qedinvestors.com/companies/avant
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: avant
+  slug: avant
+  matched_by: domain
 - name: Avidxchange
   url: http://avidxchange.com
   description: AvidXchange revolutionizes the way companies pay their bills by providing a solution that
@@ -135,9 +143,10 @@ companies:
   status: active
   hq: Charlotte, NC
   source: https://www.qedinvestors.com/companies/avidxchange
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: avidxchange
+  slug: avidxchange
+  matched_by: domain
 - name: Bambee
   url: http://bambee.com
   description: Founded in 2016, Bambee has been at the forefront of solving the HR problem for small businesses
@@ -147,9 +156,10 @@ companies:
   status: active
   hq: Los Angeles, Calif
   source: https://www.qedinvestors.com/companies/bambee
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bambee
+  slug: bambee
+  matched_by: domain
 - name: Betterfly
   url: https://betterfly.cl/
   description: Betterfly is a leading technology company that combines insurance, wellbeing and social
@@ -159,9 +169,10 @@ companies:
   status: active
   hq: Santiago, Chile
   source: https://www.qedinvestors.com/companies/betterfly
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: betterfly
+  slug: betterfly
+  matched_by: name-slug
 - name: Bhub
   url: https://bhub.com/
   description: BHub is a SaaS-based back-office platform designed to unburden entrepreneurs by delegating
@@ -171,9 +182,10 @@ companies:
   status: active
   hq: São Paulo, Brazil
   source: https://www.qedinvestors.com/companies/bhub
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bhub
+  slug: bhub
+  matched_by: domain
 - name: Bitso
   url: http://bitso.com
   description: Bitso is Latin America’s leading and most trusted cryptocurrency platform with a community
@@ -194,9 +206,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/blackbird-labs-inc
-  in_network: false
-  is_api_provider: false
-  suggested_slug: blackbird-labs-inc
+  in_network: true
+  is_api_provider: true
+  slug: blackbird
+  matched_by: domain
 - name: Blooom
   url: http://blooom.com
   description: Blooom provides a unique service that is disrupting the financial industry by bringing
@@ -206,9 +219,10 @@ companies:
   status: active
   hq: Overland Park, Ka
   source: https://www.qedinvestors.com/companies/blooom
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blooom
+  slug: blooom
+  matched_by: domain
 - name: Caliza
   url: http://caliza.co/
   description: Caliza is an API platform that enables businesses around the world to provide digital dollar
@@ -218,9 +232,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/caliza
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caliza
+  slug: caliza
+  matched_by: name-slug
 - name: Capchase
   url: https://www.capchase.com/
   description: Capchase is a platform for recurring-revenue companies to secure non-dilutive capital.
@@ -229,9 +244,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/capchase
-  in_network: false
-  is_api_provider: false
-  suggested_slug: capchase
+  in_network: true
+  is_api_provider: true
+  slug: capchase
+  matched_by: domain
 - name: Capim
   url: https://www.capim.com.br/
   description: Capim is fueled by the ambition of enabling healthcare access to all.
@@ -240,9 +256,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/capim
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: capim
+  slug: capim
+  matched_by: domain
 - name: Caribou
   url: https://www.gocaribou.com/
   description: Caribou is an auto fintech platform dedicated to transforming consumers’ financial relationship
@@ -252,9 +269,10 @@ companies:
   status: active
   hq: Washington, DC
   source: https://www.qedinvestors.com/companies/caribou
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caribou
+  slug: caribou
+  matched_by: name-slug
 - name: Carmoola
   url: https://www.carmoola.co.uk/
   description: No more wasted time hunting down the perfect car, only to find you can’t afford it, Carmoola
@@ -264,9 +282,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/carmoola
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: carmoola
+  slug: carmoola
+  matched_by: domain
 - name: Catena
   url: https://catena.com/
   description: Catena is a banking and governance platform for AI agents.
@@ -275,9 +294,10 @@ companies:
   status: active
   hq: Boston, Massachusetts
   source: https://www.qedinvestors.com/companies/catena
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: catena
+  slug: catena
+  matched_by: domain
 - name: Cedar
   url: https://www.cedar.money/us
   description: Founded in 2022, Cedar Money was created to transform the global payment landscape by pioneering
@@ -287,9 +307,10 @@ companies:
   status: active
   hq: Tel Aviv, Israel
   source: https://www.qedinvestors.com/companies/cedar
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cedar
+  slug: cedar
+  matched_by: name-slug
 - name: Clearscore
   url: http://clearscore.com
   description: ClearScore is the UK’s first ever service giving consumers completely free access to their
@@ -299,9 +320,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/clearscore
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clearscore
+  slug: clearscore
+  matched_by: domain
 - name: Cloover
   url: https://cloover.co
   description: Cloover is a Berlin-based startup with the vision to connect 1bn people to renewable energy.
@@ -310,9 +332,10 @@ companies:
   status: active
   hq: Berlin, Germany
   source: https://www.qedinvestors.com/companies/cloover
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cloover
+  slug: cloover
+  matched_by: domain
 - name: Cobre
   url: http://www.cobre.co
   description: Cobre is the best way for companies to pay.
@@ -321,9 +344,10 @@ companies:
   status: active
   hq: Bogota, Colombia
   source: https://www.qedinvestors.com/companies/cobre
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cobre
+  slug: cobre
+  matched_by: domain
 - name: Codoxo
   url: https://www.codoxo.com/
   description: At Codoxo, formerly Fraudscope, we’re on a mission to make our healthcare system more affordable
@@ -333,9 +357,10 @@ companies:
   status: active
   hq: Atlanta, Ga
   source: https://www.qedinvestors.com/companies/codoxo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: codoxo
+  slug: codoxo
+  matched_by: domain
 - name: Collective
   url: http://collective.com/
   description: Collective believes there is strength in numbers.
@@ -344,9 +369,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/collective
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: collective
+  slug: collective
+  matched_by: domain
 - name: Cora
   url: https://www.cora.com.br/
   description: Cora is a digital bank for self-employed and small & medium enterprises.
@@ -355,9 +381,10 @@ companies:
   status: active
   hq: Sao Paolo, Brazil
   source: https://www.qedinvestors.com/companies/cora
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cora
+  slug: cora
+  matched_by: domain
 - name: Coru
   url: http://coru.com
   description: Coru is the leading financial coaching platform in Mexico, working to mitigate financial
@@ -367,9 +394,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/coru
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coru
+  slug: coru
+  matched_by: domain
 - name: Covalto
   url: https://covalto.com/
   description: Covalto is a leading digital banking and services platform for SMEs in Mexico.
@@ -378,9 +406,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/covalto
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: covalto
+  slug: covalto
+  matched_by: domain
 - name: Coverforce
   url: http://www.cover-force.com
   description: CoverForce is an InsurTech platform built for Insurance Networks, and their agents, to
@@ -390,9 +419,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/coverforce
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coverforce
+  slug: coverforce
+  matched_by: name-slug
 - name: Creditas
   url: http://creditas.com
   description: Creditas (formerly BankFacil) is an online personal finance solution that improves the
@@ -402,9 +432,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/creditas
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: creditas
+  slug: creditas
+  matched_by: domain
 - name: Credit Karma
   url: https://www.creditkarma.com/
   description: Credit Karma offers a truly free way for consumers to track their credit scores and credit
@@ -414,9 +445,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/credit-karma
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: credit-karma
+  slug: creditkarma
+  matched_by: domain
 - name: Current
   url: https://current.com/
   description: Current is a leading U.S.
@@ -425,9 +457,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/current
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: current
+  slug: current
+  matched_by: domain
 - name: Decent
   url: http://decent.com
   description: Decent envisions a world where everyone has the freedom to do the work they want without
@@ -437,9 +470,10 @@ companies:
   status: active
   hq: Austin, Texas
   source: https://www.qedinvestors.com/companies/decent
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: decent
+  slug: decent
+  matched_by: domain
 - name: Dorsata
   url: http://dorsata.com
   description: Dorsata enables healthcare providers to make better decisions that are informed by data
@@ -449,9 +483,10 @@ companies:
   status: active
   hq: Washington DC
   source: https://www.qedinvestors.com/companies/dorsata
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dorsata
+  slug: dorsata
+  matched_by: domain
 - name: Easyhealth
   url: https://www.joineasyhealth.com/
   description: EasyHealth is connecting coverage and care with the first end-to-end Medicare experience.
@@ -460,9 +495,10 @@ companies:
   status: active
   hq: Beverly Hills, Calif
   source: https://www.qedinvestors.com/companies/easyhealth
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: easyhealth
+  slug: easyhealth
+  matched_by: name-slug
 - name: Efficient Capital Labs
   url: https://www.ecaplabs.com/
   description: Founded in 2022, Efficient Capital Labs (ECL) is a US headquartered fintech that transforms
@@ -472,9 +508,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/efficient-capital-labs
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: efficient-capital-labs
+  slug: efficient-capital-labs
+  matched_by: domain
 - name: Escale
   url: https://www.escale.com.br/
   description: Escale, based in São Paulo, helps enterprise companies scale their sales with AI.
@@ -483,9 +520,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/escale
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: escale
+  slug: escale
+  matched_by: domain
 - name: Fairplay
   url: http://getfairplay.com
   description: Fairplay is a revenue-based financing platform that supports entrepreneurs growth by investing
@@ -496,9 +534,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/fairplay
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fairplay
+  slug: fairplay
+  matched_by: domain
 - name: Felix
   url: https://www.felixpago.com/en
   description: Félix is ​​a chat-based platform that enables Latinos in the U.S.
@@ -507,9 +546,10 @@ companies:
   status: active
   hq: Miami, Fla
   source: https://www.qedinvestors.com/companies/felix
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: felix
+  slug: felix
+  matched_by: domain
 - name: Fermat
   url: https://fermatcommerce.com/
   description: FERMÀT is the next generation of influencer driven e-commerce, where influencers and brands
@@ -519,9 +559,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/fermat
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fermat
+  slug: fermat
+  matched_by: domain
 - name: Finch
   url: http://www.tryfinch.com
   sector: fintech
@@ -542,9 +583,10 @@ companies:
   status: active
   hq: Bogota, Colombia
   source: https://www.qedinvestors.com/companies/finkargo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: finkargo
+  slug: finkargo
+  matched_by: domain
 - name: Flywire
   url: https://www.flywire.com/
   description: Flywire, formerly peerTransfer, is a leading provider of high-ticket payment solutions,
@@ -554,9 +596,10 @@ companies:
   status: active
   hq: Boston, MA
   source: https://www.qedinvestors.com/companies/flywire
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flywire
+  slug: flywire
+  matched_by: domain
 - name: Footprint
   url: https://onefootprint.com
   description: Founded in 2022, Footprint is a New York-based technology company built to help banks,
@@ -580,9 +623,10 @@ companies:
   status: active
   hq: Burlingame, Calif
   source: https://www.qedinvestors.com/companies/freemodel
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: freemodel
+  slug: freemodel
+  matched_by: domain
 - name: Freewill
   url: http://freewill.com
   description: FreeWill creates software that drives increased planned and major giving to nonprofits.
@@ -591,9 +635,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/freewill
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: freewill
+  slug: freewill
+  matched_by: domain
 - name: Gain Credit
   url: http://gaincredit.com
   description: Credit (formerly Global Analytics) GAIN Credit, Inc.
@@ -602,9 +647,10 @@ companies:
   status: active
   hq: San Diego, Calif
   source: https://www.qedinvestors.com/companies/gain-credit
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gain-credit
+  slug: gain-credit
+  matched_by: domain
 - name: Getground
   url: http://www.getground.co.uk
   description: GetGround makes it easier, faster and more cost-effective for landlords and property investors
@@ -614,9 +660,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/getground
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: getground
+  slug: getground
+  matched_by: domain
 - name: Govport
   url: http://www.govport.com
   description: GovPort powers performance, compliance, and collaboration for the government contractors
@@ -626,9 +673,10 @@ companies:
   status: active
   hq: Washington, D.C
   source: https://www.qedinvestors.com/companies/govport
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: govport
+  slug: govport
+  matched_by: domain
 - name: Greensky
   url: http://greensky.com
   sector: fintech
@@ -636,9 +684,10 @@ companies:
   status: active
   hq: Atlanta, Ga
   source: https://www.qedinvestors.com/companies/greensky
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: greensky
+  slug: greensky
+  matched_by: domain
 - name: Habitto
   url: https://www.habitto.com/
   sector: fintech
@@ -646,9 +695,10 @@ companies:
   status: active
   hq: Tokyo, Japan
   source: https://www.qedinvestors.com/companies/habitto
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: habitto
+  slug: habitto
+  matched_by: domain
 - name: Hello Alice
   url: https://helloalice.com/
   description: Hello Alice connects small business owners to capital, networks and business services through
@@ -659,9 +709,10 @@ companies:
   status: active
   hq: Houston, Texas
   source: https://www.qedinvestors.com/companies/hello-alice
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hello-alice
+  slug: hello-alice
+  matched_by: domain
 - name: House Canary
   url: http://housecanary.com
   description: Founded in 2013, HouseCanary’s mission is to help capital markets and real estate investors
@@ -683,9 +734,10 @@ companies:
   status: active
   hq: Porland, Ore
   source: https://www.qedinvestors.com/companies/hydrolix
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hydrolix
+  slug: hydrolix
+  matched_by: domain
 - name: Insuretech Connect
   url: http://insuretechconnect.com
   description: The world’s largest gathering of insurance leaders and innovators.
@@ -694,9 +746,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/insuretech-connect
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: insuretech-connect
+  slug: insuretech-connect
+  matched_by: domain
 - name: Ipid
   url: https://ipid.tech/
   description: Founded in 2021, iPiD is a fast-growing, venture-backed fintech startup with a diverse
@@ -707,9 +760,10 @@ companies:
   status: active
   hq: Singapore
   source: https://www.qedinvestors.com/companies/ipid
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ipid
+  slug: ipid
+  matched_by: domain
 - name: Jupiter
   url: https://jupiter.money/
   description: Founded in 2019, Jupiter is a leading neo-bank in India and is on a mission to provide
@@ -732,9 +786,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/kalto
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kalto
+  slug: kalto
+  matched_by: domain
 - name: Kamino
   url: http://kamino.com.br
   description: Kamino is the most complete financial planning and spend management and execution hub designed
@@ -745,9 +800,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/kamino
-  in_network: false
-  is_api_provider: false
-  suggested_slug: kamino
+  in_network: true
+  is_api_provider: true
+  slug: kamino
+  matched_by: name-slug
 - name: Kanastra
   url: https://kanastra.com.br/
   description: Kanastra is the tech-driven back office for alternative investments.
@@ -756,9 +812,10 @@ companies:
   status: active
   hq: Uberlândia, Brazil
   source: https://www.qedinvestors.com/companies/kanastra
-  in_network: false
-  is_api_provider: false
-  suggested_slug: kanastra
+  in_network: true
+  is_api_provider: true
+  slug: kanastra
+  matched_by: domain
 - name: Kavak
   url: http://kavak.com
   description: When you buy a new car, it loses 30% of its value when removed from the dealership.
@@ -818,9 +875,10 @@ companies:
   status: active
   hq: Los Angeles, Calif
   source: https://www.qedinvestors.com/companies/kudos
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kudos
+  slug: kudos
+  matched_by: domain
 - name: Lastro
   url: http://www.lastro.co
   description: Lastro is an all-in-one real estate management platform with integrated payments that simplifies
@@ -830,9 +888,10 @@ companies:
   status: active
   hq: São Paulo, Brazil
   source: https://www.qedinvestors.com/companies/lastro
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lastro
+  slug: lastro
+  matched_by: domain
 - name: Lendup
   url: http://www.lendup.com
   description: LendUp is on a mission to help anyone get on a path to better financial health.
@@ -841,9 +900,10 @@ companies:
   status: active
   hq: San Francisco, CA
   source: https://www.qedinvestors.com/companies/lendup
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lendup
+  slug: lendup
+  matched_by: domain
 - name: Leo1
   url: https://www.leo1.in/
   description: LEO1, a pioneering Edu-fintech company, transforms financial operations for educational
@@ -853,9 +913,10 @@ companies:
   status: active
   hq: Mumbai, India
   source: https://www.qedinvestors.com/companies/leo1
-  in_network: false
-  is_api_provider: false
-  suggested_slug: leo1
+  in_network: true
+  is_api_provider: true
+  slug: leo1
+  matched_by: domain
 - name: Loft
   url: http://loft.com.br
   description: Loft is Brazil's first transactional marketplace for real estate, leveraging proprietary
@@ -865,9 +926,10 @@ companies:
   status: active
   hq: São Paulo, Brazil
   source: https://www.qedinvestors.com/companies/loft
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: loft
+  slug: loft
+  matched_by: domain
 - name: Lorikeet
   url: https://www.lorikeetcx.ai
   description: Lorikeet is a platform that complex and regulated businesses use to provide their customers
@@ -889,9 +951,10 @@ companies:
   status: active
   hq: Austin, Texas
   source: https://www.qedinvestors.com/companies/makershub
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: makershub
+  slug: makershub
+  matched_by: domain
 - name: Mattilda
   url: https://mattilda.io/
   description: Mattilda is a Mexico City-based fintech/edtech startup aimed at becoming the financial
@@ -901,9 +964,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/mattilda
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mattilda
+  slug: mattilda
+  matched_by: domain
 - name: Melonn
   url: http://www.melonn.com
   description: Melonn is a Latin American startup founded in November 2020 by Andrés Gomez (CEO), Alejandro
@@ -914,9 +978,10 @@ companies:
   status: active
   hq: Bogota, Colombia
   source: https://www.qedinvestors.com/companies/melonn
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: melonn
+  slug: melonn
+  matched_by: domain
 - name: Meow
   url: http://www.meow.com
   description: Meow.com provides bank accounts and virtual cards for AI agents.
@@ -925,9 +990,10 @@ companies:
   status: active
   hq: Miami, Fla
   source: https://www.qedinvestors.com/companies/meow
-  in_network: false
-  is_api_provider: false
-  suggested_slug: meow
+  in_network: true
+  is_api_provider: true
+  slug: meow
+  matched_by: domain
 - name: Midas
   url: https://www.getmidas.com/
   description: Midas is the leading retail investment platform in Turkey and MENA, offering its users
@@ -937,9 +1003,10 @@ companies:
   status: active
   hq: Istanbul, Turkey
   source: https://www.qedinvestors.com/companies/midas
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: midas
+  slug: midas
+  matched_by: name-slug
 - name: Milo Credit
   url: https://www.milocredit.com/
   description: Milo is a financial technology company that is reimagining the way global consumers access
@@ -949,9 +1016,10 @@ companies:
   status: active
   hq: Miami, Fla
   source: https://www.qedinvestors.com/companies/milo-credit
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: milo-credit
+  slug: milo-credit
+  matched_by: name-slug
 - name: Minu
   url: http://minu.mx
   description: Minu, an employee financial wellness company, is the market leader in pay on demand in
@@ -961,9 +1029,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/minu
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: minu
+  slug: minu
+  matched_by: domain
 - name: Mission Lane
   url: http://missionlane.com
   description: Mission Lane was created from the spin-off of LendUp’s credit card business.
@@ -972,9 +1041,10 @@ companies:
   status: active
   hq: Oakland, Calif
   source: https://www.qedinvestors.com/companies/mission-lane
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mission-lane
+  slug: mission-lane
+  matched_by: domain
 - name: Model Ml
   url: https://www.modelml.com/
   description: ML Model ML is the AI workflow builder for financial services.
@@ -983,9 +1053,10 @@ companies:
   status: active
   hq: New York City
   source: https://www.qedinvestors.com/companies/model-ml
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: model-ml
+  slug: model-ml
+  matched_by: domain
 - name: Teamapt
   url: https://moniepoint.com/
   description: Moniepoint is an all-in-one digital financial services platform for businesses.
@@ -1007,9 +1078,10 @@ companies:
   status: active
   hq: Bogota, Colombia
   source: https://www.qedinvestors.com/companies/morado
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: morado
+  slug: morado
+  matched_by: name-slug
 - name: Mottu
   url: https://mottu.com.br/
   description: Founded in 2020, Mottu is helping to establish Latin America's last-mile connectivity.
@@ -1018,9 +1090,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/mottu
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mottu
+  slug: mottu
+  matched_by: domain
 - name: Mynd
   url: https://www.mynd.co/
   description: Mynd democratizes access to real estate investing by combining deep technology and industry
@@ -1031,9 +1104,10 @@ companies:
   status: active
   hq: Oakland, Calif
   source: https://www.qedinvestors.com/companies/mynd
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mynd
+  slug: mynd
+  matched_by: domain
 - name: Niko
   url: https://Niko.mx
   description: Niko.mx, a next-generation electrification company backed by top-tier venture capital firms,
@@ -1044,9 +1118,10 @@ companies:
   status: active
   hq: Mexico City
   source: https://www.qedinvestors.com/companies/niko
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: niko
+  slug: niko
+  matched_by: domain
 - name: Noodle
   url: https://noodle.cx
   description: Noodle is the all-in-one platform for the creator economy.
@@ -1055,9 +1130,10 @@ companies:
   status: active
   hq: São Paulo, Brazil
   source: https://www.qedinvestors.com/companies/noodle
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: noodle
+  slug: noodle
+  matched_by: domain
 - name: Ntropy
   url: https://ntropy.network/
   description: Co-founded by CEO Naré Vardanyan and CTO Ilia Zintchenko, Ntropy believe that by turning
@@ -1067,9 +1143,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/ntropy
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ntropy
+  in_network: true
+  is_api_provider: true
+  slug: ntropy
+  matched_by: name-slug
 - name: Nubank
   url: https://nubank.com.br/en/
   description: Nubank is the leading financial technology company in Latin America and the largest independent
@@ -1092,9 +1169,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/nuvocargo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nuvocargo
+  slug: nuvocargo
+  matched_by: domain
 - name: Nymcard
   url: http://www.nymcard.com
   description: NymCard is MENA's trusted payments and embedded finance platform, enabling banks, fintechs,
@@ -1104,9 +1182,10 @@ companies:
   status: active
   hq: Dubai, UAE
   source: https://www.qedinvestors.com/companies/nymcard
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nymcard
+  slug: nymcard
+  matched_by: domain
 - name: Oatfi
   url: https://oatfi.com/
   description: OatFi is a New York-based fintech company founded by Mike Barbosa and John Jordan in 2021.
@@ -1115,9 +1194,10 @@ companies:
   status: active
   hq: New York City
   source: https://www.qedinvestors.com/companies/oatfi
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oatfi
+  slug: oatfi
+  matched_by: domain
 - name: Ocrolus
   url: http://ocrolus.com
   description: Ocrolus is a document automation platform that powers the digital lending ecosystem, automating
@@ -1127,9 +1207,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/ocrolus
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ocrolus
+  in_network: true
+  is_api_provider: true
+  slug: ocrolus
+  matched_by: domain
 - name: Onecard
   url: https://www.getonecard.app/
   description: FPL Technologies is on a mission to re-imagine credit and payments from first principles
@@ -1139,9 +1220,10 @@ companies:
   status: active
   hq: Pune, India
   source: https://www.qedinvestors.com/companies/onecard
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onecard
+  slug: onecard
+  matched_by: domain
 - name: Pashouses
   url: https://pashouses.id/
   description: Pashouses is an end-to-end transactional marketplace for buying and selling houses inJakarta,
@@ -1151,9 +1233,10 @@ companies:
   status: active
   hq: Jakarta, Indonesia
   source: https://www.qedinvestors.com/companies/pashouses
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pashouses
+  slug: pashouses
+  matched_by: domain
 - name: Payabli
   url: http://payabli.com
   description: Payabli is a payment infrastructure and monetization platform with a core thesis, “If you’re
@@ -1164,9 +1247,10 @@ companies:
   status: active
   hq: Miami, Fla
   source: https://www.qedinvestors.com/companies/payabli
-  in_network: false
-  is_api_provider: false
-  suggested_slug: payabli
+  in_network: true
+  is_api_provider: true
+  slug: payabli
+  matched_by: domain
 - name: Payhawk
   url: https://payhawk.com/
   description: We fuel wealth-aware campaigns empowering our clients to discover their next best prospect
@@ -1188,9 +1272,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/pitzi
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pitzi
+  slug: pitzi
+  matched_by: domain
 - name: Plug
   url: https://www.plugpagamentos.com/?lang=en
   description: Plug was founded in April 2020 by a team of payments experts to provide growing businesses
@@ -1200,9 +1285,10 @@ companies:
   status: active
   hq: Rio de Janeiro, Brazil
   source: https://www.qedinvestors.com/companies/plug
-  in_network: false
-  is_api_provider: false
-  suggested_slug: plug
+  in_network: true
+  is_api_provider: true
+  slug: plug
+  matched_by: name-slug
 - name: Plumery
   url: http://plumery.com
   description: Headquartered in the Netherlands, Plumery operates with a diverse team that embodies a
@@ -1212,9 +1298,10 @@ companies:
   status: active
   hq: Amsterdam, The Netherlands
   source: https://www.qedinvestors.com/companies/plumery
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plumery
+  slug: plumery
+  matched_by: domain
 - name: Pomelo
   url: https://pomelo.la/en/
   description: Pomelo, is a banking as a service platform for Latin America, founded by former Mastercard,
@@ -1236,9 +1323,10 @@ companies:
   status: active
   hq: Delaware / Cape Town, South Africa
   source: https://www.qedinvestors.com/companies/precium
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: precium
+  slug: precium
+  matched_by: domain
 - name: Proper
   url: https://proper.ai/
   description: Proper is building the most advanced automated accounting solution designed specifically
@@ -1248,9 +1336,10 @@ companies:
   status: active
   hq: San Francisco
   source: https://www.qedinvestors.com/companies/proper
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: proper
+  slug: proper
+  matched_by: domain
 - name: Prosper
   url: http://prosper.com
   description: Prosper is America’s first peer-to-peer lending marketplace.
@@ -1259,9 +1348,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/prosper
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prosper
+  slug: prosper
+  matched_by: domain
 - name: Provide
   url: https://www.getprovide.com/
   description: Provide's mission is to create financial products that make starting and running a healthcare
@@ -1271,9 +1361,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/provide
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: provide
+  slug: provide
+  matched_by: domain
 - name: Quantinuum
   url: https://www.quantinuum.com/
   description: Quantinuum is the world leader in quantum computing.
@@ -1307,9 +1398,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/quintoandar
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quintoandar
+  slug: quintoandar
+  matched_by: name-slug
 - name: Rabbet
   url: http://rabbet.com
   description: Rabbet is bringing efficiency, accuracy and transparency to the construction economy.
@@ -1318,9 +1410,10 @@ companies:
   status: active
   hq: Austin, Texas
   source: https://www.qedinvestors.com/companies/rabbet
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rabbet
+  slug: rabbet
+  matched_by: domain
 - name: Raenest
   url: http://www.raenest.com
   description: Raenest is a modern, multi-currency platform for Africans that makes managing money across
@@ -1330,9 +1423,10 @@ companies:
   status: active
   hq: Lagos, Nigeria
   source: https://www.qedinvestors.com/companies/raenest
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: raenest
+  slug: raenest
+  matched_by: domain
 - name: Rain
   url: http://rain.us
   description: Rain provides instant pay and other financial wellness benefits to employees of US companies.
@@ -1341,9 +1435,10 @@ companies:
   status: active
   hq: Los Angeles, Calif
   source: https://www.qedinvestors.com/companies/rain
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rain
+  slug: rain
+  matched_by: name-slug
 - name: Refyne
   url: https://www.refyne.co.in/
   description: Refyne is India’s first Earned Wage Access (EWA) provider based in Bengaluru.
@@ -1352,9 +1447,10 @@ companies:
   status: active
   hq: Bangalore, India
   source: https://www.qedinvestors.com/companies/refyne
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: refyne
+  slug: refyne
+  matched_by: domain
 - name: Remedial Health
   url: http://www.remedial.health
   description: Remedial Health develops tech-enabled solutions to make Africa’s pharmaceutical sector
@@ -1364,9 +1460,10 @@ companies:
   status: active
   hq: Lagos, Nigeria
   source: https://www.qedinvestors.com/companies/remedial-health
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: remedial-health
+  slug: remedial-health
+  matched_by: domain
 - name: Remitly
   url: http://remitly.com
   description: Remitly is the largest independent digital remittance company in the United States, transferring
@@ -1376,9 +1473,10 @@ companies:
   status: active
   hq: Seattle, Wa
   source: https://www.qedinvestors.com/companies/remitly
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: remitly
+  slug: remitly
+  matched_by: domain
 - name: Remofirst
   url: https://www.remofirst.com/
   description: Remofirst is a provider of employer of record services, founded in 2021 by Nurasyl Serik
@@ -1388,9 +1486,10 @@ companies:
   status: active
   hq: Remote-first
   source: https://www.qedinvestors.com/companies/remofirst
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: remofirst
+  slug: remofirst
+  matched_by: domain
 - name: Resolve
   url: http://helloresolve.com
   description: Resolve helps people in debt navigate their way to financial health.
@@ -1399,9 +1498,10 @@ companies:
   status: active
   hq: Oakland, Calif
   source: https://www.qedinvestors.com/companies/resolve
-  in_network: false
-  is_api_provider: false
-  suggested_slug: resolve
+  in_network: true
+  is_api_provider: true
+  slug: resolve
+  matched_by: name-slug
 - name: Restless
   url: http://restless.co.uk
   description: Less Rest Less is the UK’s largest and fastest growing jobs, advice and community site
@@ -1411,9 +1511,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/restless
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: restless
+  slug: restless
+  matched_by: domain
 - name: Roofstock
   url: https://www.roofstock.com/
   description: Roofstock is changing the way people invest in real estate.
@@ -1422,7 +1523,7 @@ companies:
   status: active
   hq: Oakland, Calif
   source: https://www.qedinvestors.com/companies/roofstock
-  slug: stessa
+  slug: roofstock
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1436,9 +1537,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/seek
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: seek
+  slug: seek
+  matched_by: domain
 - name: Shakepay
   url: https://shakepay.com/
   description: 'Shakepay is a Montreal-based technology company that makes it easy for Canadians to buy
@@ -1448,9 +1550,10 @@ companies:
   status: active
   hq: Montreal, Canada
   source: https://www.qedinvestors.com/companies/shakepay
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shakepay
+  slug: shakepay
+  matched_by: domain
 - name: Shop Circle
   url: http://www.shopcircle.co
   description: Shop Circle , the first operator of e-commerce tools, is a technology-driven company that
@@ -1460,9 +1563,10 @@ companies:
   status: active
   hq: London
   source: https://www.qedinvestors.com/companies/shop-circle
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shop-circle
+  slug: shop-circle
+  matched_by: domain
 - name: Sifi
   url: https://www.sifi.app
   description: Simplified Financial Solutions Company (SiFi) is a spend management platform designed to
@@ -1472,9 +1576,10 @@ companies:
   status: active
   hq: Saudi Arabia
   source: https://www.qedinvestors.com/companies/sifi
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sifi
+  slug: sifi
+  matched_by: domain
 - name: Signifyd
   url: http://signifyd.com
   description: Signifyd is a SaaS solution designed for fraud prevention with tools designed to interpret
@@ -1496,9 +1601,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/simplywise
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: simplywise
+  slug: simplywise
+  matched_by: domain
 - name: Sofi
   url: http://sofi.com
   description: SoFi is a values-driven company on a mission to help our members get their money right.
@@ -1519,9 +1625,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/solfacil
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: solfacil
+  slug: solfacil
+  matched_by: domain
 - name: Spinwheel
   url: https://www.spinwheel.io/
   description: Spinwheel helps Americans get out of debt sooner by embedding the payment, management and
@@ -1570,9 +1677,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/summer-2
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: summer-2
+  slug: summer-2
+  matched_by: name-slug
 - name: Summer
   url: https://www.meetsummer.org/
   description: Summer combines innovative technology and policy expertise to serve student loan borrowers
@@ -1582,9 +1690,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/summer
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: summer
+  slug: summer
+  matched_by: domain
 - name: Sundae
   url: http://sundae.com
   description: Sundae’s mission is to help homeowners get the best outcome when it’s time to sell a house
@@ -1594,9 +1703,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/sundae
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sundae
+  slug: sundae
+  matched_by: domain
 - name: Swap
   url: https://www.swap-commerce.com/
   description: Swap powers operations for ecommerce brands looking to scale.
@@ -1605,9 +1715,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/swap
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: swap
+  slug: swap
+  matched_by: domain
 - name: Syntage
   url: http://www.syntage.com
   description: Syntage is a business data platform (Open Data / Open Finance) that allows you to connect
@@ -1617,9 +1728,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/syntage
-  in_network: false
-  is_api_provider: false
-  suggested_slug: syntage
+  in_network: true
+  is_api_provider: true
+  slug: syntage
+  matched_by: domain
 - name: Tangelo
   url: https://www.tangelolatam.com/
   description: Tangelo is a financial technology company with operations across Latin America.
@@ -1628,9 +1740,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/tangelo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tangelo
+  slug: tangelo
+  matched_by: domain
 - name: Teamshares Inc
   url: https://www.teamshares.com/
   sector: fintech
@@ -1638,9 +1751,10 @@ companies:
   status: active
   hq: New York, NY
   source: https://www.qedinvestors.com/companies/teamshares-inc
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: teamshares-inc
+  slug: teamshares
+  matched_by: domain
 - name: The Muse
   url: http://themuse.com
   description: Founded in 2011 by Kathryn Minshew and Alexandra Cavoulacos, The Muse delivers quality
@@ -1665,9 +1779,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/tienda-pago
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tienda-pago
+  slug: tienda-pago
+  matched_by: domain
 - name: Tint
   url: https://www.tint.ai/
   description: Tint empowers tech platforms to sell more by embedding unique insurance products that protect
@@ -1690,9 +1805,10 @@ companies:
   status: active
   hq: Los Angeles, Calif
   source: https://www.qedinvestors.com/companies/tone
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tone
+  slug: tone
+  matched_by: domain
 - name: Treasury Prime
   url: http://treasuryprime.com
   description: 'Treasury Prime is modernizing the banking system to deliver new value to everyone: consumers,
@@ -1715,9 +1831,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/trellis
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trellis
+  slug: trellis
+  matched_by: name-slug
 - name: True Link
   url: http://truelinkfinancial.com
   description: True Link is a diversified financial services firm offering a range of money management,
@@ -1727,9 +1844,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/true-link
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: true-link
+  slug: true-link-financial
+  matched_by: domain
 - name: Upswing
   url: http://upswing.one
   description: At Upswing, our mission is to build a more efficient, customisable and inclusive infrastructure
@@ -1739,9 +1857,10 @@ companies:
   status: active
   hq: Mumbai, India
   source: https://www.qedinvestors.com/companies/upswing
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: upswing
+  slug: upswing
+  matched_by: domain
 - name: Velotax
   url: https://velotax.com.br/
   description: Velotax is a Brazilian digital credit company with an app and website, 100 percent online.
@@ -1750,9 +1869,10 @@ companies:
   status: active
   hq: São Paulo, Brazil
   source: https://www.qedinvestors.com/companies/velotax
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: velotax
+  slug: velotax
+  matched_by: domain
 - name: Vixtra
   url: https://www.vixtra.com/
   description: Vixtra is a trade finance fintech that works as a payment method in the relationship between
@@ -1763,9 +1883,10 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/vixtra
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vixtra
+  slug: vixtra
+  matched_by: domain
 - name: Wander
   url: https://www.wander.com/
   description: Wander's mission is to help people find their happy place.
@@ -1774,9 +1895,10 @@ companies:
   status: active
   hq: Austin, Texas
   source: https://www.qedinvestors.com/companies/wander
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wander
+  slug: wander
+  matched_by: domain
 - name: Warren
   url: http://warren.com.br
   description: Warren is redefining the investment landscape in Brazil by offering clients a digital platform
@@ -1787,9 +1909,10 @@ companies:
   status: active
   hq: Port Alegre, Brazil
   source: https://www.qedinvestors.com/companies/warren
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: warren
+  slug: warren
+  matched_by: domain
 - name: Wayflyer
   url: http://wayflyer.com
   description: Wayflyer helps eCommerce stores worldwide reach their growth potential by bridging the
@@ -1799,9 +1922,10 @@ companies:
   status: active
   hq: Dublin, Ireland
   source: https://www.qedinvestors.com/companies/wayflyer
-  in_network: false
-  is_api_provider: false
-  suggested_slug: wayflyer
+  in_network: true
+  is_api_provider: true
+  slug: wayflyer
+  matched_by: domain
 - name: Weavr
   url: https://www.weavr.io/
   description: Weavr.io is the open collaboration platform for digital innovators and fintechs.
@@ -1810,9 +1934,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/weavr
-  in_network: false
-  is_api_provider: false
-  suggested_slug: weavr
+  in_network: true
+  is_api_provider: true
+  slug: weavr
+  matched_by: domain
 - name: Wildfire
   url: https://wildfire-corp.com/
   description: Wildfire Systems provides an enterprise platform which enables partners to embed social
@@ -1822,9 +1947,10 @@ companies:
   status: active
   hq: San Diego, Calif
   source: https://www.qedinvestors.com/companies/wildfire
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wildfire
+  slug: wildfire
+  matched_by: name-slug
 - name: Wonder Brands
   url: https://wonderbrands.co/
   description: Wonder Brands is an e-commerce holding company that acquires and optimizes independent
@@ -1834,9 +1960,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/wonder-brands
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wonder-brands
+  slug: wonder-brands
+  matched_by: domain
 - name: Worky
   url: http://worky.mx/
   description: Worky is an all-in-one HR software and payroll platform for Mexican SMBs.
@@ -1845,9 +1972,10 @@ companies:
   status: active
   hq: Mexico City, Mexico
   source: https://www.qedinvestors.com/companies/worky
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: worky
+  slug: worky
+  matched_by: domain
 - name: Xpertsea
   url: http://www.xpertsea.com
   description: XpertSea builds tech and financial solutions that transform how seafood is farmed and traded
@@ -1857,9 +1985,10 @@ companies:
   status: active
   hq: Quebec, Canada
   source: https://www.qedinvestors.com/companies/xpertsea
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xpertsea
+  slug: xpertsea
+  matched_by: domain
 - name: Xp Health
   url: https://xphealth.co
   description: Health XP Health democratizes access to high-quality, delightful experiences in vision
@@ -1869,9 +1998,10 @@ companies:
   status: active
   hq: San Carlos, Calif
   source: https://www.qedinvestors.com/companies/xp-health
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xp-health
+  slug: xp-health
+  matched_by: domain
 - name: Zocks
   url: https://www.zocks.io
   description: Zocks is the AI Assistant for financial services.
@@ -1880,9 +2010,10 @@ companies:
   status: active
   hq: San Francisco
   source: https://www.qedinvestors.com/companies/zocks
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zocks
+  slug: zocks
+  matched_by: domain
 - name: Zopa
   url: http://zopa.com
   description: Zopa is the UK’s leading peer-to-peer lending service – bypassing banks and their high
@@ -1892,9 +2023,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/zopa
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zopa
+  in_network: true
+  is_api_provider: true
+  slug: zopa
+  matched_by: domain
 - name: Zubale
   url: https://www.zubale.com/
   description: Through a variety of specialized e-commerce tools and solutions developed with high-performance
@@ -1905,6 +2037,7 @@ companies:
   status: active
   hq: Mexico City
   source: https://www.qedinvestors.com/companies/zubale
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zubale
+  in_network: true
+  is_api_provider: true
+  slug: zubale
+  matched_by: domain

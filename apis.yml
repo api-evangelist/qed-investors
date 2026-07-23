@@ -14,6 +14,17 @@ description: >-
   $4B in assets under management, more than 250 portfolio companies, and over 30 unicorns, with
   notable investments including Nubank, Credit Karma, SoFi, Klarna, Remitly, Flywire, Klarna,
   Kavak, Creditas, and Bitso.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.qedinvestors.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
