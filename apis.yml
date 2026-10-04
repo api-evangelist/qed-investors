@@ -48,7 +48,7 @@ tags:
   - Series A
   - Growth Equity
   - Fintech
-  - Financial-Services
+  - Financial Services
   - Payments
   - Lending
   - Insurtech
@@ -70,6 +70,7 @@ tags_raw:
   - Proptech
   - Latin America
   - Global
+  - Financial-Services
 apis: []
 common:
   - type: Website
