@@ -40,7 +40,7 @@ image: https://www.qedinvestors.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Venture Capital
@@ -73,6 +73,8 @@ tags_raw:
   - Financial-Services
 apis: []
 common:
+  - url: https://www.qedinvestors.com/blog/rss.xml
+    type: BlogRSS
   - type: Website
     url: https://www.qedinvestors.com/
   - type: Portfolio
