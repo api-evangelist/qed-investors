@@ -1,4 +1,95 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: qed-investors
-leads: []
+leads:
+- name: Caribou
+  url: https://www.gocaribou.com/
+  suggested_slug: gocaribou-com
+  sector: fintech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/caribou
+  stub_created: false
+- name: Coverforce
+  url: http://www.cover-force.com
+  suggested_slug: cover-force-com
+  sector: insurtech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/coverforce
+  stub_created: false
+- name: Easyhealth
+  url: https://www.joineasyhealth.com/
+  suggested_slug: joineasyhealth-com
+  sector: healthtech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/easyhealth
+  stub_created: false
+- name: Footprint
+  url: https://onefootprint.com
+  suggested_slug: onefootprint-com
+  sector: marketplace
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/footprint
+  stub_created: false
+- name: Midas
+  url: https://www.getmidas.com/
+  suggested_slug: getmidas-com
+  sector: wealth-management
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/midas
+  stub_created: false
+- name: Milo Credit
+  url: https://www.milocredit.com/
+  suggested_slug: milocredit-com
+  sector: fintech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/milo-credit
+  stub_created: false
+- name: Morado
+  url: https://soymorado.co/
+  suggested_slug: soymorado-co
+  sector: marketplace
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/morado
+  stub_created: false
+- name: Plug
+  url: https://www.plugpagamentos.com/?lang=en
+  suggested_slug: plugpagamentos-com
+  sector: payments
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/plug
+  stub_created: false
+- name: Quintoandar
+  url: http://quintoandar.com
+  suggested_slug: quintoandar
+  sector: proptech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/quintoandar
+  stub_created: false
+- name: Resolve
+  url: http://helloresolve.com
+  suggested_slug: helloresolve-com
+  sector: healthtech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/resolve
+  stub_created: false
+- name: Summer 2
+  url: http://www.gosummer.com
+  suggested_slug: gosummer-com
+  sector: fintech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/summer-2
+  stub_created: false
+- name: Trellis
+  url: http://www.trellisconnect.com
+  suggested_slug: trellisconnect-com
+  sector: insurtech
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/trellis
+  stub_created: false
+- name: Wildfire
+  url: https://wildfire-corp.com/
+  suggested_slug: wildfire-corp-com
+  sector: ecommerce
+  source_vc: qed-investors
+  source: https://www.qedinvestors.com/companies/wildfire
+  stub_created: false

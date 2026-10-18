@@ -3,9 +3,9 @@ method: searched
 source: https://www.qedinvestors.com/companies
 summary:
   portfolio_total: 160
-  in_network: 160
-  api_providers: 31
-  missing: 0
+  in_network: 147
+  api_providers: 32
+  missing: 13
   stubs_created: 0
 companies:
 - name: Airship
@@ -94,8 +94,8 @@ companies:
   source: https://www.qedinvestors.com/companies/april
   in_network: true
   is_api_provider: false
-  slug: april
-  matched_by: name-slug
+  slug: aprilgetaprilcom
+  matched_by: domain
 - name: Astrada
   url: https://astrada.co/
   description: Astrada is the unified API for transaction data.
@@ -233,7 +233,7 @@ companies:
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/caliza
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: caliza
   matched_by: name-slug
 - name: Capchase
@@ -269,10 +269,10 @@ companies:
   status: active
   hq: Washington, DC
   source: https://www.qedinvestors.com/companies/caribou
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: caribou
-  matched_by: name-slug
+  x-name-collision: caribou
+  suggested_slug: gocaribou-com
 - name: Carmoola
   url: https://www.carmoola.co.uk/
   description: No more wasted time hunting down the perfect car, only to find you can’t afford it, Carmoola
@@ -382,7 +382,7 @@ companies:
   hq: Sao Paolo, Brazil
   source: https://www.qedinvestors.com/companies/cora
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: cora
   matched_by: domain
 - name: Coru
@@ -419,10 +419,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/coverforce
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: coverforce
-  matched_by: name-slug
+  x-name-collision: coverforce
+  suggested_slug: cover-force-com
 - name: Creditas
   url: http://creditas.com
   description: Creditas (formerly BankFacil) is an online personal finance solution that improves the
@@ -447,7 +447,7 @@ companies:
   source: https://www.qedinvestors.com/companies/credit-karma
   in_network: true
   is_api_provider: false
-  slug: creditkarma
+  slug: credit-karma
   matched_by: domain
 - name: Current
   url: https://current.com/
@@ -495,10 +495,10 @@ companies:
   status: active
   hq: Beverly Hills, Calif
   source: https://www.qedinvestors.com/companies/easyhealth
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: easyhealth
-  matched_by: name-slug
+  x-name-collision: easyhealth
+  suggested_slug: joineasyhealth-com
 - name: Efficient Capital Labs
   url: https://www.ecaplabs.com/
   description: Founded in 2022, Efficient Capital Labs (ECL) is a US headquartered fintech that transforms
@@ -609,10 +609,10 @@ companies:
   status: active
   hq: New York City
   source: https://www.qedinvestors.com/companies/footprint
-  slug: footprint
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: footprint
+  suggested_slug: onefootprint-com
 - name: Freemodel
   url: http://www.freemodel.com
   description: Freemodel was founded in 2020 with a mission to streamline and improve the residential
@@ -1003,10 +1003,10 @@ companies:
   status: active
   hq: Istanbul, Turkey
   source: https://www.qedinvestors.com/companies/midas
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: midas
-  matched_by: name-slug
+  x-name-collision: midas
+  suggested_slug: getmidas-com
 - name: Milo Credit
   url: https://www.milocredit.com/
   description: Milo is a financial technology company that is reimagining the way global consumers access
@@ -1016,10 +1016,10 @@ companies:
   status: active
   hq: Miami, Fla
   source: https://www.qedinvestors.com/companies/milo-credit
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: milo-credit
-  matched_by: name-slug
+  x-name-collision: milo-credit
+  suggested_slug: milocredit-com
 - name: Minu
   url: http://minu.mx
   description: Minu, an employee financial wellness company, is the market leader in pay on demand in
@@ -1078,10 +1078,10 @@ companies:
   status: active
   hq: Bogota, Colombia
   source: https://www.qedinvestors.com/companies/morado
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: morado
-  matched_by: name-slug
+  x-name-collision: morado
+  suggested_slug: soymorado-co
 - name: Mottu
   url: https://mottu.com.br/
   description: Founded in 2020, Mottu is helping to establish Latin America's last-mile connectivity.
@@ -1285,10 +1285,10 @@ companies:
   status: active
   hq: Rio de Janeiro, Brazil
   source: https://www.qedinvestors.com/companies/plug
-  in_network: true
-  is_api_provider: true
-  slug: plug
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: plug
+  suggested_slug: plugpagamentos-com
 - name: Plumery
   url: http://plumery.com
   description: Headquartered in the Netherlands, Plumery operates with a diverse team that embodies a
@@ -1398,10 +1398,9 @@ companies:
   status: active
   hq: Sao Paulo, Brazil
   source: https://www.qedinvestors.com/companies/quintoandar
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: quintoandar
-  matched_by: name-slug
+  suggested_slug: quintoandar
 - name: Rabbet
   url: http://rabbet.com
   description: Rabbet is bringing efficiency, accuracy and transparency to the construction economy.
@@ -1498,10 +1497,10 @@ companies:
   status: active
   hq: Oakland, Calif
   source: https://www.qedinvestors.com/companies/resolve
-  in_network: true
-  is_api_provider: true
-  slug: resolve
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: resolve
+  suggested_slug: helloresolve-com
 - name: Restless
   url: http://restless.co.uk
   description: Less Rest Less is the UK’s largest and fastest growing jobs, advice and community site
@@ -1613,9 +1612,9 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/sofi
-  slug: sofi
+  slug: sofi-technologies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Solfacil
   url: https://landing.solfacil.com.br/
@@ -1663,10 +1662,10 @@ companies:
   status: active
   hq: London, England
   source: https://www.qedinvestors.com/companies/stream
-  slug: stream
+  slug: wagestream
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
 - name: Summer 2
   url: http://www.gosummer.com
   description: Summer is on a mission to provide more people with access to second homes by lowering the
@@ -1677,10 +1676,10 @@ companies:
   status: active
   hq: New York, N.Y
   source: https://www.qedinvestors.com/companies/summer-2
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: summer-2
-  matched_by: name-slug
+  x-name-collision: summer-2
+  suggested_slug: gosummer-com
 - name: Summer
   url: https://www.meetsummer.org/
   description: Summer combines innovative technology and policy expertise to serve student loan borrowers
@@ -1753,7 +1752,7 @@ companies:
   source: https://www.qedinvestors.com/companies/teamshares-inc
   in_network: true
   is_api_provider: false
-  slug: teamshares
+  slug: teamshares-inc
   matched_by: domain
 - name: The Muse
   url: http://themuse.com
@@ -1831,10 +1830,10 @@ companies:
   status: active
   hq: San Francisco, Calif
   source: https://www.qedinvestors.com/companies/trellis
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: trellis
-  matched_by: name-slug
+  x-name-collision: trellis
+  suggested_slug: trellisconnect-com
 - name: True Link
   url: http://truelinkfinancial.com
   description: True Link is a diversified financial services firm offering a range of money management,
@@ -1846,7 +1845,7 @@ companies:
   source: https://www.qedinvestors.com/companies/true-link
   in_network: true
   is_api_provider: false
-  slug: true-link-financial
+  slug: true-link
   matched_by: domain
 - name: Upswing
   url: http://upswing.one
@@ -1947,10 +1946,10 @@ companies:
   status: active
   hq: San Diego, Calif
   source: https://www.qedinvestors.com/companies/wildfire
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: wildfire
-  matched_by: name-slug
+  x-name-collision: wildfire
+  suggested_slug: wildfire-corp-com
 - name: Wonder Brands
   url: https://wonderbrands.co/
   description: Wonder Brands is an e-commerce holding company that acquires and optimizes independent
